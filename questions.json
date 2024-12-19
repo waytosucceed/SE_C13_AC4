@@ -1,0 +1,57 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "What is the sum of the smallest and largest numbers if you compare 0.804, 0.840, 0.084, and 0.480?",
+      "options": [
+          "0.942",
+          "0.924",
+          "0.249",
+          "0.492"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Subtract the number with the highest thousandth value from the number with the highest tenth value among 0.913, 0.391, 0.139, and 0.931.",
+      "options": [
+          "0.792",
+          "0.820",
+          "0.784",
+          "0.812"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Follow the Steps to Determine the Final Number: <br>Start with: 156.284.<ul style='text-align:start;'><li> Step 1: Subtract 3 tenths.</li><li> Step 2: Add 5 thousandths.</li><li> Step 3: Add 1 ten.</li></ul> What number do you end up with?",
+      "options": [
+          "165.989",
+          "156.999",
+          "166.989",
+          "166.289"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q4",
+      "question": "A tank has 20.5 liters of water. If 7.25 liters are removed and then 1.75 liters are added back, how much water is in the tank now?",
+      "options": [
+          "15.00 liters",
+          "14.95 liters",
+          "15.10 liters",
+          "14.00 liters"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q5",
+      "question": "Given the prices of four different products:<br><img width='70%' src='./assests/images/1.png'><br> Which product is the cheapest and which is the most expensive?",
+      "options": [
+          "Cheapest: Product D, Most expensive: Product C",
+          "Cheapest: Product A, Most expensive: Product C",
+          "Cheapest: Product D, Most expensive: Product B",
+          "Cheapest: Product A, Most expensive: Product B"
+      ],
+      "correct": 3
+  }
+]
